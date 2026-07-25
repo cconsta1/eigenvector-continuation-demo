@@ -4,7 +4,7 @@ A simple Mathematica notebook demonstrating eigenvector continuation, following 
 
 Paper: https://link.aps.org/accepted/10.1103/PhysRevLett.121.032501
 
-Video: coming soon
+Video: https://youtu.be/kZiLMA-5UMs
 
 ## What this notebook does
 
